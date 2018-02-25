@@ -1,0 +1,28 @@
+#Types / Statements 
+```$xslt
+if <>:
+ do something 
+else:
+  do domethingelse 
+  
+not / and / or 
+do something if <condition is true > else do something else 
+```
+
+#Lists 
+```python
+names = [ "bhanu" , "prakash"] 
+```
+
+# Classes 
+
+Constructors are only available in classes.  
+```python
+class Student: 
+student = Student()
+
+```
+
+#Comments 
+Single line # 
+Multi line with """ 
