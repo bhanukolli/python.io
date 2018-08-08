@@ -26,3 +26,22 @@ student = Student()
 #Comments 
 Single line # 
 Multi line with """ 
+
+# Python packages and flask 
+Django and Flask solves the same problem 
+Other - Cherry pi , web2pi 
+
+#python tips and tricks 
+virtualenv plurasight 
+virtualenv --python=python2.7 mynewproject 
+
+source  <pathtovirtualenv>/bin/activate 
+
+deactivate 
+
+#debug 
+
+debugger in pycharm 
+
+#Extras 
+pyinstaller - to create executable package 

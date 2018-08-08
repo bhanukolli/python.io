@@ -44,3 +44,5 @@ print(james.get_name_capitalize())
 
 print(Student.school_name)
 print(james.get_school_name())
+
+print("Hello")
